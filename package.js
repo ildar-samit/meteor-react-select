@@ -10,7 +10,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.2.0.1');
   api.use('ecmascript');
   api.use('react@0.1.13');
-  api.use('cosmos:browserify@0.7.0', 'client');
+  api.use('cosmos:browserify@0.5.1', 'client');
   api.addFiles('package.browserify.js', 'client');
   api.addFiles('package.browserify.options.json', 'client');
   api.addFiles('default.css', 'client');
