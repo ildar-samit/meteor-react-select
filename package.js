@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ildar:react-select',
-  version: '0.6.11_3',
+  version: '0.6.11_4',
   summary: 'React-Select packaged for Meteor',
   git: 'https://github.com/ildarsamit/meteor-react-select',
   documentation: 'README.md'
