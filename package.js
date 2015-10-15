@@ -18,6 +18,6 @@ Package.onUse(function(api) {
 });
 
 Npm.depends({
-  'react-select': '0.6.11',
+  'react-select': '0.7.0',
   'externalify': '0.1.0',
 });
